@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=gethsemane normal.cur
+
+[Help]
+Path=gethsemane help.ani
+
+[Wait]
+Path=gethsemane busy.ani
+
+[Crosshair]
+Path=gethsemane prcs.cur
+
+[IBeam]
+Path=gethsemane text.cur
+
+[NWPen]
+Path=gethsemane handwriting.cur
+
+[No]
+Path=gethsemane unavailable.ani
+
+[SizeNS]
+Path=gethsemane vert.ani
+
+[SizeWE]
+Path=gethsemane horz.ani
+
+[SizeNWSE]
+Path=gethsemane dgn1.ani
+
+[SizeNESW]
+Path=gethsemane dgn2.ani
+
+[SizeAll]
+Path=gethsemane move.ani
+
+[UpArrow]
+Path=gethsemane alternate.cur
+
+[Hand]
+Path=gethsemane link.ani
+
+[AppStarting]
+Path=gethsemane working.ani
+

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NosLauncher", "NosLauncher.csproj", "{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		x86|Any CPU = x86|Any CPU
+		x86|x86 = x86|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Debug|x86.ActiveCfg = Debug|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Debug|x86.Build.0 = Debug|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Release|x86.ActiveCfg = Release|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.Release|x86.Build.0 = Release|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.x86|Any CPU.ActiveCfg = x86|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.x86|Any CPU.Build.0 = x86|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.x86|x86.ActiveCfg = x86|x86
+		{333E3AAD-D0A3-4E90-8DD3-BAC26B62F3CB}.x86|x86.Build.0 = x86|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36211F43-1317-4F30-8A15-FBDC3A4AD144}
+	EndGlobalSection
+EndGlobal

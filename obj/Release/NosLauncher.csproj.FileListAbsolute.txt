@@ -1,0 +1,17 @@
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\bin\Release\NosFenix.exe.config
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\bin\Release\NosFenix.exe
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\bin\Release\NosFenix.pdb
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\bin\Release\es-DO\NosFenix.resources.dll
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\Interop.WMPLib.dll
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.csproj.ResolveComReference.cache
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.EnterIP.resources
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.Herramientas.resources
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.Inicio.resources
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.NosFenix.resources
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosFenix.Properties.Resources.resources
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.Herramientas.es-DO.resources
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.csproj.GenerateResource.Cache
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosLauncher.csproj.CoreCompileInputs.cache
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\es-DO\NosFenix.resources.dll
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosFenix.exe
+C:\Users\KILL009\Downloads\Nueva carpeta (2)\Tool-for-Nostale-Pserver--master\obj\Release\NosFenix.pdb
