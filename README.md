@@ -1,4 +1,7 @@
 # ToolNos
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df7b9c4697c244baa065118b11443de8)](https://app.codacy.com/app/KILL009/ToolNos?utm_source=github.com&utm_medium=referral&utm_content=KILL009/ToolNos&utm_campaign=Badge_Grade_Dashboard)
+
 Launcher Tool
 
 [<img src="https://cdn.discordapp.com/attachments/429478365678796831/504076815573450792/11942163_10153614755942533_4314214719831115025_o.jpg">](https://discord.gg/h8kTEbe)
